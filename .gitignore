@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+venv/
+venv310/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DO NOT UPLOAD)
+data/raw/
+data/processed/
+
+# Results (optional – keep figures, not raw arrays)
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
