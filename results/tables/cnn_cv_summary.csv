@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+1D CNN (ECG+Resp),0.778 ± 0.087,0.622 ± 0.152,0.790 ± 0.136,0.687 ± 0.120,0.858 ± 0.078
