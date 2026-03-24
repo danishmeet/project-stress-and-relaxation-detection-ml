@@ -1,0 +1,4 @@
+Input Modality,Best Model,Accuracy,Precision,Recall,F1,ROC-AUC,Balanced Acc,Specificity
+ECG Only,Random Forest,0.757±0.094,0.593±0.134,0.591±0.249,0.576±0.193,0.822±0.082,0.710±0.130,0.830±0.086
+RESP Only,Random Forest,0.711±0.058,0.553±0.090,0.478±0.128,0.495±0.089,0.729±0.066,0.645±0.053,0.814±0.102
+ECG + RESP,SVM (RBF Kernel),0.787±0.071,0.653±0.085,0.581±0.270,0.589±0.206,0.836±0.103,0.729±0.125,0.878±0.042
